@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application
   @override
   Widget build(BuildContext context ) {
-    //
+    // hello vilag 1
     return MaterialApp(onGenerateTitle: , 
       // Application name
       title: 'Flutter Hello World',
